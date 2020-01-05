@@ -7,7 +7,7 @@ date: 2019-12-12
   class="img-right"
   width="100%"
   caption="Feastday bread fresh from an horno in Taos, 1985."
-  src="images/feastday-bread-taos-1985.jpg"
+  src="sites/images/feastday-bread-taos-1985.jpg"
 %}
 ## METHODS
 
