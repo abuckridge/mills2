@@ -1,5 +1,5 @@
 ---
-title: Methods
+title: The Frontier Effect
 layout: base
 date: 2019-12-12
 ---
