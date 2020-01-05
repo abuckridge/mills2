@@ -6,11 +6,10 @@ date: 2019-12-12
 ## METHODS
 {% include figure.html
   class="img-right"
-  width="85%"
+  width="80%"
   caption="Feastday bread fresh from an horno in Taos, 1985."
   src="sites/images/feastday-bread-taos-1985.jpg"
 %}
-
 ### OVERVIEW
 
 This project began like so many other research projects of the 21st century—with a Google search. From the onset, I found numerous secondary sources acknowledging the historic presence of hundreds of flour mills in New Mexico, particularly in the northern part of the state. But as my research continued, I could only find actual documentation for a dozen or so mills. I spent hours at The Center for Southwest Research in Albuquerque, and at the archives of the Fray Angelico Chavez History Library in Santa Fe, but with little success. Traditional methods of historical research left me wanting, and time for the project was running out. 
