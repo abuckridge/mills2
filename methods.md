@@ -3,13 +3,13 @@ title: Methods
 layout: base
 date: 2019-12-12
 ---
+## METHODS
 {% include figure.html
   class="img-right"
-  width="100%"
+  width="85%"
   caption="Feastday bread fresh from an horno in Taos, 1985."
   src="sites/images/feastday-bread-taos-1985.jpg"
 %}
-## METHODS
 
 ### OVERVIEW
 
