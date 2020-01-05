@@ -1,5 +1,5 @@
 ---
-title: Methods
+title: Gallery
 layout: base
 date: 2019-12-12
 ---
