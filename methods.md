@@ -81,9 +81,15 @@ Making the railroad layer was the most fun because it involved a process I enjoy
 
 {% include figure.html
   class="img-right"
-  width="100%"
+  width="50%"
   caption="The Atchison Topeka and Santa Fe Railroad was the first rail to reach the New Mexican Territory, arriving via Raton Pass in 1880."
-  src="sites/images/ATSF1889.jpg"
+  src="sites/images/ATSF1889-crop.jpg"
+%}
+{% include figure.html
+  class="img-right"
+  width="50%"
+  caption="This map is the result of transferring analog data on the location of forts and railroad lines in 19th-century New Mexico into a spatially referenced digital format ready for spatial analysis."
+  src="sites/images/forts-map.png"
 %}
 
 #### SPATIAL ANALYSIS
