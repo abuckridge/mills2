@@ -93,6 +93,7 @@ Making the railroad layer was the most fun because it involved a process I enjoy
   src="sites/images/ATSF1889-crop.jpg"
 %}
 
+
 #### SPATIAL ANALYSIS
 
 At the risk of getting too technical here, I want to speak a bit about the two basic types of models used in all GIS applications: vector models and raster models. Vectors use a system of points, lines, and polygons to represent space, whereas raster models use a grid or pixel system where each grid is the same size and has a single numerical value. All of the data I acquired and created was vector data. Towns, forts, and mills were represented by points. Rivers and railroad lines were represented as lines, and the counties were represented as polygons. 
