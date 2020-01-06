@@ -88,7 +88,7 @@ Making the railroad layer was the most fun because it involved a process I enjoy
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="51%"
   caption="Although less beautiful than the hand drawn maps of the past, this map is spatially referenced and ready for further analysis."
   src="sites/images/forts-map.png"
 %}
@@ -104,7 +104,7 @@ At the risk of getting too technical here, I want to speak a bit about the two b
   src="sites/images/vector-to-raster.png"
 %}
 
-Vector models are effective for visualizations and some spatial analysis. For example, this model could help me answer questions like how many mills were in each county? Or how far was each mill from a river or railroad? These are interesting questions, but I wanted to find the areas where the confluence of the parameters I set indicated a higher probability of historic mill occurrence. The way I chose to answer that question required raster analysis, so I converted my data to rasters and performed what is called a [Euclidean Distance Analysis](https://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-euclidean-distance-analysis.htm). 
+Vector models are effective for visualizations and some spatial analysis. For example, a vector model could help me answer questions like how many mills were in each county? Or how far was each mill from a river or railroad? These are interesting questions, but I wanted to find the areas where the confluence of the parameters I set indicated a higher probability of historic mill occurrence. The way I chose to answer that question required raster analysis, so I converted my data to rasters and performed what is called a [Euclidean Distance Analysis](https://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-euclidean-distance-analysis.htm). 
 
 I overlayed a grid on top of each data layer and assigned each cell a numerical value based on its distance from the parameters I set. This way I could visualize how the proximity of a river, town, or fort increased the relative likelihood of a mill having once existed in that region. Because the arrival of the railroad decreased the price and increased the availability of milled grain from the Midwest, railroads actually had a negative effect on New Mexican milling operations, and as such were given a negative weight in my analysis. Ultimately, I overlayed each independent data layer to reveal their combined effects—the areas with the highest value cells were the most likely to have had a mill nearby. Check out the maps I made here (insert link). 
 
