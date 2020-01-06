@@ -65,13 +65,13 @@ Historical GIS can be frustrating. Because it is not as popular as GIS for say p
 
 {% include figure.html
   class="img-right"
-  width="33%"
+  width="30%"
   caption="some quote about forts in nm."
   src="sites/images/forts-nm.jpg"
 %}
 {% include figure.html
   class="img-right"
-  width="66%"
+  width="70%"
   caption="some quote and census info 1910."
   src="sites/images/census1910.png"
 %}
@@ -91,6 +91,7 @@ Making the railroad layer was the most fun because it involved a process I enjoy
   caption="This map is the result of transferring analog data on the location of forts and railroad lines in 19th-century New Mexico into a spatially referenced digital format ready for spatial analysis."
   src="sites/images/forts-map.png"
 %}
+
 
 #### SPATIAL ANALYSIS
 
