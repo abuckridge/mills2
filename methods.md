@@ -55,7 +55,7 @@ What would have taken me years to read using traditional historical research met
 
 Because the levels of data I had for the mills varied, I created a hierarchical naming convention to classify them. Ideally, my sources would list the mill by its name, but when they did not, I would classify them by the owner’s name or ultimately by the locale they served if other data was not available. As such, my list of historic mills includes names such as The Aztec Grist Mill, The Vincente Romero Mill, and The Mountainair Grist Mill. 
 
-### GIS INSERT IMAGE
+### GIS ANALYSIS
 
 For those unfamiliar with the terms Geographic Information Systems and Geographic Information Science (GIS), fear not, you’re almost certainly familiar with some of their applications. If you’ve ever used Google Maps, checked in somewhere on your phone, or used a GPS to find the best route to wherever you were headed, then you’ve used GIS technologies. A Geographic Information System is a framework “designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data” (thanks, wikipedia). GIScience is a field that looks at how to best implement GISystems as well as the social, ethical, and theoretical concerns of GIS. GIS exists at the crossroads of geography, computer science, and graphic design. It is used in fields as diverse as urban planning, health care, military, business, agriculture, and history. 
 
@@ -82,7 +82,7 @@ Making the railroad layer was the most fun because it involved a process I enjoy
 {% include figure.html
   class="img-left"
   width="50%"
-  caption="The Atchison Topeka and Santa Fe Railroad was the first rail to reach the New Mexican Territory, arriving via Raton Pass in 1880."
+  caption="The Atchison Topeka and Santa Fe Railroad was the first rail to reach the New Mexican Territory, arriving via Raton Pass in 1880.This map was created by the American Bank Note Company in 1899."
   src="sites/images/ATSF1889-crop.jpg"
 %}
 
