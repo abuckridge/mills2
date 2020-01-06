@@ -34,8 +34,8 @@ Despite my love of reading through old newspapers, the relatively short time spa
 Of the seven available tools offered through Antconc, the concordance tool proved to be the most valuable for this project. Concordance allows the user to select a key word to be displayed in its context. Several words are presented on either side of the keyword and the filename is also displayed alongside. With “grist mill” as my key word selection, I was able to quickly scan the corpus for surrounding words of interest such as the name of the mill, the mill owner, the town it served, if it was up for sale or had just been burned in a fire, etc. With each file name referenced alongside, I could easily cross reference the complete original text if I wanted more thorough detail.
 {% include figure.html
   class="img-right"
-  width="33%"
-  caption="Centennial Hotel"
+  width="100%"
+  caption="The *concordance* tool searches for words and displays them in their context."
   src="sites/images/concordance.pdf"
 %}
 
