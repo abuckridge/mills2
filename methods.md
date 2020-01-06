@@ -9,7 +9,7 @@ date: 2019-12-12
   caption="Feastday bread fresh from an horno in Taos, 1985."
   src="sites/images/feastday-bread-taos-1985.jpg"
 %}
-### OVERVIEW
+### METHODOLOGY
 
 This project began like so many other research projects of the 21st century—with a Google search. From the onset, I found numerous secondary sources acknowledging the historic presence of hundreds of flour mills in New Mexico, particularly in the northern part of the state. But as my research continued, I could only find actual documentation for a dozen or so mills. I spent hours at The Center for Southwest Research in Albuquerque, and at the archives of the Fray Angelico Chavez History Library in Santa Fe, but with little success. Traditional methods of historical research left me wanting, and time for the project was running out. 
 
@@ -59,7 +59,7 @@ Because the levels of data I had for the mills varied, I created a hierarchical 
 
 For those unfamiliar with the terms Geographic Information Systems and Geographic Information Science (GIS), fear not, you’re almost certainly familiar with some of their applications. If you’ve ever used Google Maps, checked in somewhere on your phone, or used a GPS to find the best route to wherever you were headed, then you’ve used GIS technologies. A Geographic Information System is a framework “designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data” (thanks, wikipedia). GIScience is a field that looks at how to best implement GISystems as well as the social, ethical, and theoretical concerns of GIS. GIS exists at the crossroads of geography, computer science, and graphic design. It is used in fields as diverse as urban planning, health care, military, business, agriculture, and history. 
 
-### ACQUIRING MY DATA
+#### ACQUIRING MY DATA
 
 Historical GIS can be frustrating. Because it is not as popular as GIS for say physical sciences or urban planning, there is not as much data available. This means you spend a lot of time creating datasets. In my case, I was able to acquire datasets for New Mexico county lines, rivers, and populated places while I had to create datasets for historic military forts, the route of the Atchison Topeka Santa Fe Railroad in the 1880s, and of course grist mills. I also augmented the county data layer by linking it to population data from the 1910 New Mexico Census. 
 
@@ -76,6 +76,7 @@ Historical GIS can be frustrating. Because it is not as popular as GIS for say p
   src="sites/images/census1910.png"
 %}
 
+
 Making the railroad layer was the most fun because it involved a process I enjoy called georeferencing. Essentially, I took the digitized historic railroad map and overlayed a transparent copy of it onto my spatially referenced map of New Mexico. I then selected what are called control points which align locations on the historic map with actual coordinates in the real world. Once aligned, I traced the railroad route to create a new data layer representing that historic line. As for the military forts, I simply uploaded a spreadsheet I had made which included the geographic coordinates for the historic forts and then converted that file into a new point layer. The grist mills were more elusive. I could not find the geographical coordinates for the majority of the mills so instead, they are spatially linked to the towns which they served. 
 
 {% include figure.html
@@ -85,7 +86,7 @@ Making the railroad layer was the most fun because it involved a process I enjoy
   src="sites/images/ATSF1889.jpg"
 %}
 
-### SPATIAL ANALYSIS
+#### SPATIAL ANALYSIS
 
 At the risk of getting too technical here, I want to speak a bit about the two basic types of models used in all GIS applications: vector models and raster models. Vectors use a system of points, lines, and polygons to represent space, whereas raster models use a grid or pixel system where each grid is the same size and has a single numerical value. All of the data I acquired and created was vector data. Towns, forts, and mills were represented by points. Rivers and railroad lines were represented as lines, and the counties were represented as polygons. 
 
