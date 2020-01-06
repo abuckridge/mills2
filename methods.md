@@ -25,7 +25,14 @@ Ultimately, I chose a digital format over traditional historical publications fo
 
 Collaboration does not end in the production phase of digital projects, as it can with traditional print publications. Users get to engage and interact with a site like this. Which brings me to my third point: **websites are one of the best ways to support public history**. The production of knowledge during the digital age has revolutionized the way that communities and individuals access cultural heritage. If I had written a report for this research, it is likely that it would have gone no further than the other dusty essays in my filing cabinet. Instead, I chose a digital interface to have a free public format for accessing my writing, research, code, and spatial analysis. Not only can community members and individuals access these forgotten histories, they can augment them—building on my code or research to support their diverse goals. I used GitHub (insert link) to manage my project and create this site. It is an amazing tool for collaborative work, and I highly recommend it for digital history projects. 
 
-### TEXT MINING INSERT IMAGE AND MAKE AS LINK TO TEXT BELOW like in Case Studies
+### TEXT MINING 
+
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption=""
+  src="sites/images/text_mining.jpg"
+%}
 
 So, what exactly is text mining? First of all, text mining is made possible by the fact that more and more documents are either born digital (meaning they never had an analog format, such as an email, tweet, blog, or online news article) or have been digitized. We now have access to millions and millions of documents online, which means that we can do computations on those documents. Text mining is essentially a method of analyzing the words in digital documents—counting their occurrences, looking for patterns and relationships between words, visualizing changes in word use over time, etc. Its applications are diverse across public and private sectors and a variety of software packages offer text mining tools. I used Antconc (insert link) for this project, a free text mining software program created by Laurence Anthony of Waseda University.  
 
