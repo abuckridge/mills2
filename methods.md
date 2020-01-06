@@ -77,10 +77,11 @@ Historical GIS can be frustrating. Because it is not as popular as GIS for say p
 %}
 {% include figure.html
   class="img-right"
-  width="100%"
+  width="33%"
   caption="some quote and census info 1910."
   src="sites/images/census1910.png"
 %}
+
 Making the railroad layer was the most fun because it involved a process I enjoy called georeferencing. Essentially, I took the digitized historic railroad map and overlayed a transparent copy of it onto my spatially referenced map of New Mexico. I then selected what are called control points which align locations on the historic map with actual coordinates in the real world. Once aligned, I traced the railroad route to create a new data layer representing that historic line. As for the military forts, I simply uploaded a spreadsheet I had made which included the geographic coordinates for the historic forts and then converted that file into a new point layer. The grist mills were more elusive. I could not find the geographical coordinates for the majority of the mills so instead, they are spatially linked to the towns which they served. 
 
 ### SPATIAL ANALYSIS
