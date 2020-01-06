@@ -27,13 +27,6 @@ Collaboration does not end in the production phase of digital projects, as it ca
 
 ### TEXT MINING 
 
-{% include figure.html
-  class="img-right"
-  width="45%"
-  caption=""
-  src="sites/images/text_mining.jpg"
-%}
-
 So, what exactly is text mining? First of all, text mining is made possible by the fact that more and more documents are either born digital (meaning they never had an analog format, such as an email, tweet, blog, or online news article) or have been digitized. We now have access to millions and millions of documents online, which means that we can do computations on those documents. Text mining is essentially a method of analyzing the words in digital documents—counting their occurrences, looking for patterns and relationships between words, visualizing changes in word use over time, etc. Its applications are diverse across public and private sectors and a variety of software packages offer text mining tools. I used [Antconc](https://www.laurenceanthony.net/software/antconc/) for this project, a free text mining software program created by Laurence Anthony of Waseda University.  
 
 Despite my love of reading through old newspapers, the relatively short time span allotted for this project was not enough to comb through the 307,000 pages of historic New Mexican newspapers digitized on the Library of Congress’s [Chronicling America](https://chroniclingamerica.loc.gov/) website. However, the archivists at the Library of Congress were able to send me JSON files for those pages, which range in date of publication from 1852-1922.  By isolating the pages that included the phrase “grist mill”, I refined that corpus to 706 pages of interest which I uploaded as a corpus into the Antconc software. 
@@ -54,7 +47,7 @@ Of the seven available tools offered through Antconc, the concordance tool prove
   src="sites/images/concordance_1.png"
 %}
 
-What would have taken me years to read using traditional historical research methods, I did in a matter of days. In the months leading up to this text mining analysis, I had only identified seventeen mills. Text mining helped me identify an additional 44 mills and in a fraction of the time. A list of those mills is referenced in the “Geographical Perspectives” (insert link?) tab on this site.
+What would have taken me years to read using traditional historical research methods, I did in a matter of days. In the months leading up to this text mining analysis, I had only identified seventeen mills. Text mining helped me identify an additional 44 mills and in a fraction of the time. A list of those mills is referenced in the “Geographical Perspectives” tab on this site.
 
 #### A NOTE ABOUT NAMING CONVENTIONS
 
@@ -62,7 +55,7 @@ Because the levels of data I had for the mills varied, I created a hierarchical 
 
 ### GIS INSERT IMAGE
 
-For those unfamiliar with the terms Geographic Information Systems and Geographic Information Science (GIS), fear not, you’re almost certainly familiar with some of their applications. If you’ve ever used Google Maps, checked in somewhere on your phone, or used a GPS to find the best route to wherever you were headed, then you’ve used GIS technologies. A Geographic Information System is a framework “designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data” (wiki). GIScience is a field that looks at how to best implement GISystems as well as the social, ethical, and theoretical concerns of GIS. GIS exists at the crossroads of geography, computer science, and graphic design. It is used in fields as diverse as urban planning, health care, military, business, agriculture, and history. 
+For those unfamiliar with the terms Geographic Information Systems and Geographic Information Science (GIS), fear not, you’re almost certainly familiar with some of their applications. If you’ve ever used Google Maps, checked in somewhere on your phone, or used a GPS to find the best route to wherever you were headed, then you’ve used GIS technologies. A Geographic Information System is a framework “designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data” (thanks, wikipedia). GIScience is a field that looks at how to best implement GISystems as well as the social, ethical, and theoretical concerns of GIS. GIS exists at the crossroads of geography, computer science, and graphic design. It is used in fields as diverse as urban planning, health care, military, business, agriculture, and history. 
 
 ### ACQUIRING MY DATA
 
