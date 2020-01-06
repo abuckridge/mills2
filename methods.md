@@ -49,7 +49,14 @@ Of the seven available tools offered through Antconc, the concordance tool prove
   src="sites/images/concordance_1.png"
 %}
 
-What would have taken me years to read using traditional historical research methods, I did in a matter of days. In the months leading up to this text mining analysis, I had only identified seventeen mills. Text mining helped me identify an additional 44 mills and in a fraction of the time. HOW CAN I INSERT AN EXCEL FILE WITH THE LIST OF MILLS?
+What would have taken me years to read using traditional historical research methods, I did in a matter of days. In the months leading up to this text mining analysis, I had only identified seventeen mills. Text mining helped me identify an additional 44 mills and in a fraction of the time. The below map illustrates the location of each mill I identified.
+
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption="add caption."
+  src="sites/images/Historic-mills.jpg"
+%}
 
 #### A NOTE ABOUT NAMING CONVENTIONS
 
