@@ -99,7 +99,7 @@ At the risk of getting too technical here, I want to speak a bit about the two b
 
 {% include figure.html
   class="img-right"
-  width="25%"
+  width="35%"
   caption="add caption."
   src="sites/images/vector-to-raster.png"
 %}
