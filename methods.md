@@ -32,6 +32,7 @@ So, what exactly is text mining? First of all, text mining is made possible by t
 Despite my love of reading through old newspapers, the relatively short time span allotted for this project was not enough to comb through the 307,000 pages of historic New Mexican newspapers digitized on the Library of Congress’s Chronicling America Archives website (insert link). However, the archivists at the Library of Congress were able to send me JSON files for those pages, which range in date of publication from 1852-1922.  By isolating the pages that included the phrase “grist mill”, I refined that corpus to 706 pages of interest which I uploaded as a corpus into the Antconc software. INSERT SCREEN SHOT OF NEWSPAPER ARCHIVES
 
 Of the seven available tools offered through Antconc, the concordance tool proved to be the most valuable for this project. Concordance allows the user to select a key word to be displayed in its context. Several words are presented on either side of the keyword and the filename is also displayed alongside. With “grist mill” as my key word selection, I was able to quickly scan the corpus for surrounding words of interest such as the name of the mill, the mill owner, the town it served, if it was up for sale or had just been burned in a fire, etc. With each file name referenced alongside, I could easily cross reference the complete original text if I wanted more thorough detail.
+
 {% include figure.html
   class="img-right"
   width="100%"
