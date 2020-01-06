@@ -29,7 +29,7 @@ Collaboration does not end in the production phase of digital projects, as it ca
 
 {% include figure.html
   class="img-right"
-  width="100%"
+  width="40%"
   caption=""
   src="sites/images/text_mining.jpg"
 %}
