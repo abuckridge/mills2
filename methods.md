@@ -87,8 +87,8 @@ Making the railroad layer was the most fun because it involved a process I enjoy
 %}
 
 {% include figure.html
-  class="img-right"
-  width="51%"
+  class="img-left"
+  width="52%"
   caption="Although less beautiful than the hand drawn maps of the past, this map is spatially referenced and ready for further analysis."
   src="sites/images/forts-map.png"
 %}
