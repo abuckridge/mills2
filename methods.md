@@ -53,7 +53,7 @@ What would have taken me years to read using traditional historical research met
 
 {% include figure.html
   class="img-right"
-  width="45%"
+  width="40%"
   caption="add caption."
   src="sites/images/Historic-mills.jpg"
 %}
