@@ -44,7 +44,7 @@ Of the seven available tools offered through Antconc, the concordance tool prove
 
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="100%"
   caption="The concordance tool searches for words and displays them in their context. Notice also how the txt file is placed alongside and reveals the date of each publication."
   src="sites/images/concordance_1.png"
 %}
@@ -53,7 +53,7 @@ What would have taken me years to read using traditional historical research met
 
 {% include figure.html
   class="img-right"
-  width="100%"
+  width="50%"
   caption="add caption."
   src="sites/images/Historic-mills.jpg"
 %}
