@@ -86,7 +86,7 @@ Making the railroad layer was the most fun because it involved a process I enjoy
   src="sites/images/ATSF1889-crop.jpg"
 %}
 {% include figure.html
-  class="img-left"
+  class="img-right"
   width="50%"
   caption="This map is the result of transferring analog data on the location of forts and railroad lines in 19th-century New Mexico into a spatially referenced digital format ready for spatial analysis."
   src="sites/images/forts-map.png"
