@@ -49,7 +49,7 @@ Of the seven available tools offered through Antconc, the concordance tool prove
   src="sites/images/concordance_1.png"
 %}
 
-What would have taken me years to read using traditional historical research methods, I did in a matter of days. In the months leading up to this text mining analysis, I had only identified seventeen mills. Text mining helped me identify an additional 44 mills and in a fraction of the time. A list of those mills is referenced in the “Geographical Perspectives” tab on this site.
+What would have taken me years to read using traditional historical research methods, I did in a matter of days. In the months leading up to this text mining analysis, I had only identified seventeen mills. Text mining helped me identify an additional 44 mills and in a fraction of the time. HOW CAN I INSERT AN EXCEL FILE WITH THE LIST OF MILLS?
 
 #### A NOTE ABOUT NAMING CONVENTIONS
 
@@ -89,7 +89,7 @@ Making the railroad layer was the most fun because it involved a process I enjoy
 {% include figure.html
   class="img-right"
   width="50%"
-  caption="This map is the result of transferring analog data on the location of forts and railroad lines in 19th-century New Mexico into a spatially referenced digital format ready for spatial analysis."
+  caption="Although less beautiful than the hand drawn maps of the past, this map is spatially referenced and ready for further analysis."
   src="sites/images/forts-map.png"
 %}
 
