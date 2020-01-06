@@ -36,7 +36,7 @@ Of the seven available tools offered through Antconc, the concordance tool prove
 {% include figure.html
   class="img-right"
   width="100%"
-  caption="The *concordance* tool searches for words and displays them in their context."
+  caption="The concordance tool searches for words and displays them in their context."
   src="sites/images/concordance.png"
 %}
 
