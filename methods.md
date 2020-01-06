@@ -80,19 +80,20 @@ Historical GIS can be frustrating. Because it is not as popular as GIS for say p
 Making the railroad layer was the most fun because it involved a process I enjoy called [georeferencing](https://pro.arcgis.com/en/pro-app/help/data/imagery/overview-of-georeferencing.htm). Essentially, I took the digitized historic railroad map and overlayed a transparent copy of it onto my spatially referenced map of New Mexico. I then selected what are called control points which align locations on the historic map with actual coordinates in the real world. Once aligned, I traced the railroad route to create a new data layer representing that historic line. As for the military forts, I simply uploaded a spreadsheet I had made which included the geographic coordinates for the historic forts and then converted that file into a new point layer. The grist mills were more elusive. I could not find the geographical coordinates for the majority of the mills so instead, they are spatially linked to the towns which they served. 
 
 {% include figure.html
-  class="img-left"
-  width="48%"
-  caption="The Atchison Topeka and Santa Fe Railroad was the first rail to reach the New Mexican Territory, arriving via Raton Pass in 1880.This map was created by the American Bank Note Company in 1899."
-  src="sites/images/ATSF1889-crop.jpg"
-%}
-
-{% include figure.html
-  class="img-left"
+  class="img-right"
   width="52%"
   caption="Although less beautiful than the hand drawn maps of the past, this map is spatially referenced and ready for further analysis."
   src="sites/images/forts-map.png"
 %}
 
+{% include figure.html
+  class="img-right"
+  width="48%"
+  caption="The Atchison Topeka and Santa Fe Railroad was the first rail to reach the New Mexican Territory, arriving via Raton Pass in 1880.This map was created by the American Bank Note Company in 1899."
+  src="sites/images/ATSF1889-crop.jpg"
+%}
+
+#### SPATIAL ANALYSIS
 
 At the risk of getting too technical here, I want to speak a bit about the two basic types of models used in all GIS applications: vector models and raster models. Vectors use a system of points, lines, and polygons to represent space, whereas raster models use a grid or pixel system where each grid is the same size and has a single numerical value. All of the data I acquired and created was vector data. Towns, forts, and mills were represented by points. Rivers and railroad lines were represented as lines, and the counties were represented as polygons. 
 
