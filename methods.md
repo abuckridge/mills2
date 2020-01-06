@@ -80,13 +80,13 @@ Historical GIS can be frustrating. Because it is not as popular as GIS for say p
 Making the railroad layer was the most fun because it involved a process I enjoy called georeferencing. Essentially, I took the digitized historic railroad map and overlayed a transparent copy of it onto my spatially referenced map of New Mexico. I then selected what are called control points which align locations on the historic map with actual coordinates in the real world. Once aligned, I traced the railroad route to create a new data layer representing that historic line. As for the military forts, I simply uploaded a spreadsheet I had made which included the geographic coordinates for the historic forts and then converted that file into a new point layer. The grist mills were more elusive. I could not find the geographical coordinates for the majority of the mills so instead, they are spatially linked to the towns which they served. 
 
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="The Atchison Topeka and Santa Fe Railroad was the first rail to reach the New Mexican Territory, arriving via Raton Pass in 1880."
   src="sites/images/ATSF1889-crop.jpg"
 %}
 {% include figure.html
-  class="img-right"
+  class="img-left"
   width="50%"
   caption="This map is the result of transferring analog data on the location of forts and railroad lines in 19th-century New Mexico into a spatially referenced digital format ready for spatial analysis."
   src="sites/images/forts-map.png"
