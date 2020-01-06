@@ -71,7 +71,7 @@ Historical GIS can be frustrating. Because it is not as popular as GIS for say p
 %}
 {% include figure.html
   class="img-right"
-  width="62%"
+  width="66%"
   caption="some quote and census info 1910."
   src="sites/images/census1910.png"
 %}
