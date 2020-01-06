@@ -61,7 +61,7 @@ For those unfamiliar with the terms Geographic Information Systems and Geographi
 
 ### ACQUIRING MY DATA
 
-Historical GIS can be frustrating. Because it is not as popular as GIS for say physical sciences or urban planning, there is not as much data available. This means you spend a lot of time creating datasets. In my case, I was able to acquire datasets for New Mexico county lines, rivers, and populated places while I had to create datasets for historic military forts, the route of the Atchison Topeka Santa Fe Railroad in the 1880s, and of course grist mills. I also augmented the county data layer by linking it to early New Mexico Census population data from 1910. 
+Historical GIS can be frustrating. Because it is not as popular as GIS for say physical sciences or urban planning, there is not as much data available. This means you spend a lot of time creating datasets. In my case, I was able to acquire datasets for New Mexico county lines, rivers, and populated places while I had to create datasets for historic military forts, the route of the Atchison Topeka Santa Fe Railroad in the 1880s, and of course grist mills. I also augmented the county data layer by linking it to population data from the 1910 New Mexico Census. 
 
 {% include figure.html
   class="img-right"
