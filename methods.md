@@ -38,7 +38,9 @@ Despite my love of reading through old newspapers, the relatively short time spa
   src="sites/images/loc-newspapers.png"
 %}
 
+
 Of the seven available tools offered through Antconc, the concordance tool proved to be the most valuable for this project. Concordance allows the user to select a key word to be displayed in its context. Several words are presented on either side of the keyword and the filename is also displayed alongside. With “grist mill” as my key word selection, I was able to quickly scan the corpus for surrounding words of interest such as the name of the mill, the mill owner, the town it served, if it was up for sale or had just been burned in a fire, etc. With each file name referenced alongside, I could easily cross reference the complete original text if I wanted more thorough detail.
+
 
 {% include figure.html
   class="img-right"
@@ -61,6 +63,24 @@ For those unfamiliar with the terms Geographic Information Systems and Geographi
 
 Historical GIS can be frustrating. Because it is not as popular as GIS for say physical sciences or urban planning, there is not as much data available. This means you spend a lot of time creating datasets. In my case, I was able to acquire datasets for New Mexico county lines, rivers, and populated places while I had to create datasets for historic military forts, the route of the Atchison Topeka Santa Fe Railroad in the 1880s, and of course grist mills. I also augmented the county data layer by linking it to early New Mexico Census population data from 1910. 
 
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="The Atchison Topeka and Santa Fe Railroad was the first rail to reach the New Mexican Territory, arriving via Raton Pass in 1880."
+  src="sites/images/ATSF1889.jpg"
+%}
+{% include figure.html
+  class="img-right"
+  width="33%"
+  caption="some quote about forts in nm."
+  src="sites/images/forts-nm.jpg"
+%}
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption="some quote and census info 1910."
+  src="sites/images/census1910.png"
+%}
 Making the railroad layer was the most fun because it involved a process I enjoy called georeferencing. Essentially, I took the digitized historic railroad map and overlayed a transparent copy of it onto my spatially referenced map of New Mexico. I then selected what are called control points which align locations on the historic map with actual coordinates in the real world. Once aligned, I traced the railroad route to create a new data layer representing that historic line. As for the military forts, I simply uploaded a spreadsheet I had made which included the geographic coordinates for the historic forts and then converted that file into a new point layer. The grist mills were more elusive. I could not find the geographical coordinates for the majority of the mills so instead, they are spatially linked to the towns which they served. 
 
 ### SPATIAL ANALYSIS
