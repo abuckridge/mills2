@@ -97,14 +97,14 @@ Making the railroad layer was the most fun because it involved a process I enjoy
 
 At the risk of getting too technical here, I want to speak a bit about the two basic types of models used in all GIS applications: vector models and raster models. Vectors use a system of points, lines, and polygons to represent space, whereas raster models use a grid or pixel system where each grid is the same size and has a single numerical value. All of the data I acquired and created was vector data. Towns, forts, and mills were represented by points. Rivers and railroad lines were represented as lines, and the counties were represented as polygons. 
 
-Vector models are effective for visualizations and some spatial analysis. For example, this model could help me answer questions like how many mills were in each county? Or how far was each mill from a river or railroad? These are interesting questions, but I wanted to find the areas where the confluence of the parameters I set indicated a higher probability of historic mill occurrence. The way I chose to answer that question required raster analysis, so I converted my data to rasters and performed what is called a [Euclidean Distance Analysis](https://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-euclidean-distance-analysis.htm). 
-
 {% include figure.html
   class="img-right"
-  width="50%"
+  width="25%"
   caption="add caption."
   src="sites/images/vector-to-raster.png"
 %}
+
+Vector models are effective for visualizations and some spatial analysis. For example, this model could help me answer questions like how many mills were in each county? Or how far was each mill from a river or railroad? These are interesting questions, but I wanted to find the areas where the confluence of the parameters I set indicated a higher probability of historic mill occurrence. The way I chose to answer that question required raster analysis, so I converted my data to rasters and performed what is called a [Euclidean Distance Analysis](https://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-euclidean-distance-analysis.htm). 
 
 I overlayed a grid on top of each data layer and assigned each cell a numerical value based on its distance from the parameters I set. This way I could visualize how the proximity of a river, town, or fort increased the relative likelihood of a mill having once existed in that region. Because the arrival of the railroad decreased the price and increased the availability of milled grain from the Midwest, railroads actually had a negative effect on New Mexican milling operations, and as such were given a negative weight in my analysis. Ultimately, I overlayed each independent data layer to reveal their combined effects—the areas with the highest value cells were the most likely to have had a mill nearby. Check out the maps I made here (insert link). 
 
