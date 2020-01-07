@@ -4,6 +4,8 @@ layout: base
 date: 2019-12-12
 ---
 
+### GALLERY
+
 <div class="carousel">
   <div><img src="{{ site.baseurl }}/sites/images/albert-gusdorf-mill.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/aztec-mill.jpg"/></div>
