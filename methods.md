@@ -66,7 +66,7 @@ Because the levels of data I had for the mills varied, I created a hierarchical 
 
 For those unfamiliar with the terms Geographic Information Systems and Geographic Information Science (GIS), fear not, you’re almost certainly familiar with some of their applications. If you’ve ever used Google Maps, checked in somewhere on your phone, or used a GPS to find the best route to wherever you were headed, then you’ve used GIS technologies. A Geographic Information System is a framework “designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data” (thanks, wikipedia). GIScience is a field that looks at how to best implement GISystems as well as the social, ethical, and theoretical concerns of GIS. GIS exists at the crossroads of geography, computer science, and graphic design. It is used in fields as diverse as urban planning, health care, military, business, agriculture, and history. 
 
-#### ACQUIRING MY DATA
+#### ACQUIRING DATA
 
 Historical GIS can be frustrating. Because it is not as popular as GIS for say physical sciences or urban planning, there is not as much data available. This means you spend a lot of time creating datasets. In my case, I was able to acquire datasets for New Mexico county lines, rivers, and populated places while I had to create datasets for historic military forts, the route of the Atchison Topeka Santa Fe Railroad in the 1880s, and of course grist mills. I also augmented the county data layer by linking it to population data from the 1910 New Mexico Census. 
 
@@ -107,7 +107,7 @@ At the risk of getting too technical here, I want to speak a bit about the two b
 
 {% include figure.html
   class="img-right"
-  width="35%"
+  width="30%"
   caption="add caption."
   src="sites/images/vector-to-raster.png"
 %}
