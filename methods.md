@@ -114,7 +114,16 @@ At the risk of getting too technical here, I want to speak a bit about the two b
 
 Vector models are effective for visualizations and some spatial analysis. For example, a vector model could help me answer questions like how many mills were in each county? Or how far was each mill from a river or railroad? These are interesting questions, but I wanted to find the areas where the confluence of the parameters I set indicated a higher probability of historic mill occurrence. The way I chose to answer that question required raster analysis, so I converted my data to rasters and performed what is called a [Euclidean Distance Analysis](https://desktop.arcgis.com/en/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-euclidean-distance-analysis.htm). 
 
-I overlayed a grid on top of each data layer and assigned each cell a numerical value based on its distance from the parameters I set. This way I could visualize how the proximity of a river, town, or fort increased the relative likelihood of a mill having once existed in that region. Because the arrival of the railroad decreased the price and increased the availability of milled grain from the Midwest, railroads actually had a negative effect on New Mexican milling operations, and as such were given a negative weight in my analysis. Ultimately, I overlayed each independent data layer to reveal their combined effects—the areas with the highest value cells were the most likely to have had a mill nearby. Check out the maps I made here (insert link). 
+I overlayed a grid on top of each data layer and assigned each cell a numerical value based on its distance from the parameters I set. This way I could visualize how the proximity of a river, town, or fort increased the relative likelihood of a mill having once existed in that region. Because the arrival of the railroad decreased the price and increased the availability of milled grain from the Midwest, railroads actually had a negative effect on New Mexican milling operations, and as such were given a negative weight in my analysis. Ultimately, I overlayed each independent data layer and did some map algebra to determine which areas had the highest value cells for all features and were therefore most likely to once have had a mill nearby. 
+
+<div class="carousel">
+  <div><img src="{{ site.baseurl }}/sites/images/albert-gusdorf-mill.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/sites/images/aztec-mill.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/sites/images/belen-roller-mill.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/sites/images/bread-deming-1893.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/sites/images/cassidy-mill.jpg"/></div>
+  <div><img src="{{ site.baseurl }}/sites/images/pendaries-mill.jpg"/></div>
+</div>
 
 There are tons of opportunities for further spatial analysis on this project. Given more time, it would be interesting to do a temporal analysis to look for trends over time in mill locations. Also, I could not find a good historic digitized map outlining early reservations in New Mexico but would still be curious to see how their introduction changed milling development throughout the region. It would be interesting to map the influence of industrial bread on local milling production too. When did people stop baking bread at home, and how did that change the way people grew and processed grain in New Mexico? And of course, hundreds of historic mills still remain unidentified.  
 
