@@ -35,7 +35,7 @@ Despite my love of reading through old newspapers, the relatively short time spa
   class="img-right"
   width="100%"
   caption="The Library of Congress manages a digital archive of American newspapers dating as far back as 1690. Their collection of New Mexican papers begins in the 1850s."
-  src="sites/images/loc-newspapers-crop.png"
+  src="sites/images/loc-newspapers.png"
 %}
 
 
