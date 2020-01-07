@@ -118,6 +118,8 @@ I overlayed a grid on top of each data layer and assigned each cell a numerical 
   <div><img src="{{ site.baseurl }}/sites/images/actual-vs-model.png"/></div>
 </div>
 
+The first four maps illustrate the roles that individual features had on the likelihood of mill existence. For example, the closer the fort, the more likely that a mill was nearby. The map titled "Aggregate of Determining Factors" illustrates the combined effects of those individual factors, and the final map compares the actual mill locations to the model of likelihood I created.  
+
 There are tons of opportunities for further spatial analysis on this project. Given more time, it would be interesting to do a temporal analysis to look for trends over time in mill locations. Also, I could not find a good historic digitized map outlining early reservations in New Mexico but would still be curious to see how their introduction changed milling development throughout the region. It would be interesting to map the influence of industrial bread on local milling production too. When did people stop baking bread at home, and how did that change the way people grew and processed grain in New Mexico? And of course, hundreds of historic mills still remain unidentified.  
 
 
