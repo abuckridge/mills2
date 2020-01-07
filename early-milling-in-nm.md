@@ -8,5 +8,5 @@ date: 2019-12-12
   class="img-right"
   width="100%"
   caption="caption about iconic early New Mexican mill"
-  src="sites/images/centennial-hotel.jpg"
+  src="sites/images/cordova-millworks.png"
 %}
