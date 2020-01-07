@@ -13,7 +13,7 @@ date: 2019-12-12
   <div><img src="{{ site.baseurl }}/sites/images/cassidy-wheel-house.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/cassidy2.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/chamita-mill.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/sites/images/el-molina-de-truchas.tif"/></div>
+  <div><img src="{{ site.baseurl }}/sites/images/ruoff-mill-drivers-1938.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/pueblo-wheat-harvest.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/la-cueva-mill-warehouse.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/la-cueva-mill.jpg"/></div>
