@@ -35,7 +35,7 @@ Despite my love of reading through old newspapers, the relatively short time spa
   class="img-right"
   width="100%"
   caption="The Library of Congress manages a digital archive of American newspapers dating as far back as 1690. Their collection of New Mexican papers begins in the 1850s."
-  src="sites/images/loc-newspapers.png"
+  src="sites/images/loc-newspapers-crop.png"
 %}
 
 
@@ -46,7 +46,7 @@ Of the seven available tools offered through Antconc, the concordance tool prove
   class="img-right"
   width="100%"
   caption="The concordance tool searches for words and displays them in their context. Notice also how the txt file is placed alongside and reveals the date of each publication."
-  src="sites/images/concordance_1.png"
+  src="sites/images/concordance-crop.png"
 %}
 
 What would have taken me years to read using traditional historical research methods, I did in a matter of days. In the months leading up to this text mining analysis, I had only identified seventeen mills. Text mining helped me identify an additional 44 mills and in a fraction of the time. The below map illustrates the location of each mill I identified.
