@@ -20,7 +20,6 @@ date: 2019-12-12
   <div><img src="{{ site.baseurl }}/sites/images/laguna-donkey-mill.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/mill-las-vegas.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/n-4th-st-flour-mill-abq-1930.jpg"/></div>
-  <div><img src="{{ site.baseurl }}/sites/images/pueblo-wheat-harvest.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/ruoff-mill-drivers-1938.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/spiralbread-taos-1985.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/truchas-wheel.png"/></div>
