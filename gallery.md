@@ -23,7 +23,6 @@ date: 2019-12-12
   <div><img src="{{ site.baseurl }}/sites/images/ruoff-mill-drivers-1938.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/spiralbread-taos-1985.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/truchas-wheel.png"/></div>
-  <div><img src="{{ site.baseurl }}/sites/images/truchas.png"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/wheat-cleaners-1905.jpg"/></div>
   <div><img src="{{ site.baseurl }}/sites/images/pendaries-mill.jpg"/></div>
 </div>
