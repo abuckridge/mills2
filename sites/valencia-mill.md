@@ -6,6 +6,13 @@ date: 2019-12-12
 
 ### The Valencia Flour Mill
 
+{% include figure.html
+  class="img-right"
+  width="100%"
+  caption="Built in 1914, today the Valencia Flour Mill is run by Jose D. and Kathy Cordova."
+  src="sites/images/valencia-mill.png"
+%}
+
 In 1914, Jose D. Cordova and Josefita Lopez Cordova opened the Jarales Trading Post and Roller Mill in the Middle Rio Grande Valley. Cordova purchased his wheat from farmers in Valencia county, milled it on his property, and packaged it for the national Flavo Brand. His son, Arturo Cordova, continued the family milling business with the support of his wife Vivianita Sanchez Cordova and her brother. Arturo sold the family flour under the name Royal Crust until his retirement in the 1970s. With his death in 1983, the mill closed. Five years later, the third generation of Cordova’s was ready to restore the mill. Jose D. Cordova (Jr.) and his wife Kathy bought the estate in 1988, reopening the mill in 1990 under the name [Valencia Flour Mill Ltd.](https://www.valenciaflourmill.com/) 
 
 Today, the Cordova family carries on many of the milling traditions of their ancestors. For example, they still purchase local grain for their flour. All Valencia products are made with grain from the Navajo Agricultural Products Industries (NAPI) farm near Farmington, New Mexico. Grandson Cordova still uses the same milling equipment that the business opened with over a hundred years ago, with a few modifications. In fact, he argues that the craft milling techniques used by this machinery create a unique, rich flavor to the flour. To cater to a modern market, the Valencia Flour Mill now offers a variety of wheat and blue corn based products including a just add water fry bread mix and a blue corn muffin and pancake mix. 
