@@ -4,6 +4,8 @@ layout: base
 date: 2019-12-12
 ---
 
+### The Rise and Fall of Flour Milling in New Mexico
+
 {% include figure.html
   class="img-right"
   width="60%"
