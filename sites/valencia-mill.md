@@ -19,17 +19,17 @@ In 1914, Jose D. Cordova and Josefita Lopez Cordova opened the Jarales Trading P
   class="img-right"
   width="33%"
   caption="caption."
-  src="sites/images/third-gen-cordovas.png"
+  src="sites/images/third-gen-cordovas.webp"
 %}{% include figure.html
   class="img-right"
   width="33%"
   caption="caption."
-  src="sites/images/the-sanchez-cordovas.png"
+  src="sites/images/the-sanchez-cordovas.webp"
 %}{% include figure.html
   class="img-right"
   width="33%"
   caption="caption."
-  src="sites/images/the-cordovas.png"
+  src="sites/images/the-cordovas.webp"
 %}
 
 Today, the Cordova family carries on many of the milling traditions of their ancestors. For example, they still purchase local grain for their flour. All Valencia products are made with grain from the [Navajo Agricultural Products Industries](http://www.navajopride.com/) (NAPI) farm near Farmington, New Mexico. Grandson Cordova still uses the same milling equipment that the business opened with over a hundred years ago, with a few modifications. In fact, he argues that the craft milling techniques used by this machinery create a unique, rich flavor to the flour. To cater to a modern market, the Valencia Flour Mill now offers a variety of wheat and blue corn based products including a just add water fry bread mix and a blue corn muffin and pancake mix. 
