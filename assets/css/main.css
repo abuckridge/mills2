@@ -75,7 +75,7 @@ HOME PAGE
     text-align:center;
     background-size: cover;
     background-repeat: no-repeat;
-    color: white;
+    color: #000;
     //text-shadow: black 0.3em 0.3em 0.3em;
     max-height: 60%;
   }
@@ -87,6 +87,10 @@ p {
 }
 
 .jumbotron p {
+  text-align:center;
+}
+
+.jumbotron h2 {
   text-align:center;
 }
 
