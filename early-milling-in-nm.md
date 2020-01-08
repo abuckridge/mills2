@@ -6,7 +6,7 @@ date: 2019-12-12
 
 {% include figure.html
   class="img-right"
-  width="100%"
-  caption="caption about iconic early New Mexican mill"
-  src="sites/images/cordova-millworks.png"
+  width="60%"
+  caption="caption"
+  src="sites/images/wheat-farmer-las-vegas.jpg"
 %}
