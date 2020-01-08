@@ -313,14 +313,14 @@ footer {
   margin-top:2em;
   padding: 2em;
   background-color: #FFC72C;
-  color:#ccc;
+  color:#000;
   text-align: left;
 }
 
 footer a, footer a:visited {
   border-bottom:none;
   font-weight:normal;
-  color: #ccc;
+  color: #000;
 }
 
 footer h5 {
