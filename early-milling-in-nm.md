@@ -12,3 +12,4 @@ date: 2019-12-12
   caption="caption"
   src="sites/images/wheat-farmer-las-vegas.jpg"
 %}
+The history of flour milling in New Mexico begins at the onset of the 17th century with the introduction of flour to the region by conquistador and early colonial governor Juan de Onate y Salazar. However, we don’t see reference to water-powered mills until the mid-18th century, suggesting that flour was likely ground by hand until this time. As populations and demand increased, mills became more common so that by the late 1700s, the mill-to-family ratio in the northern part of the state was approximately one to thirty-five!  
