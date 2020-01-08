@@ -10,7 +10,7 @@ date: 2019-12-12
   class="img-right"
   width="100%"
   caption="Built in 1914, today the Valencia Flour Mill is run by Jose D. and Kathy Cordova."
-  src="sites/images/valencia-mill.jpg"
+  src="sites/images/valencia.jpg"
 %}
 
 In 1914, Jose D. Cordova and Josefita Lopez Cordova opened the Jarales Trading Post and Roller Mill in the Middle Rio Grande Valley. Cordova purchased his wheat from farmers in Valencia county, milled it on his property, and packaged it for the national Flavo Brand. His son, Arturo Cordova, continued the family milling business with the support of his wife Vivianita Sanchez Cordova and her brother. Arturo sold the family flour under the name Royal Crust until his retirement in the 1970s. With his death in 1983, the mill closed. Five years later, the third generation of Cordova’s was ready to restore the mill. Jose D. Cordova (Jr.) and his wife Kathy bought the estate in 1988, reopening the mill in 1990 under the name [Valencia Flour Mill Ltd.](https://www.valenciaflourmill.com/) 
